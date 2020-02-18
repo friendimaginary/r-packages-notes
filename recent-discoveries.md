@@ -1,15 +1,15 @@
-https://rdrr.io/cran/formattable/
+https://renkun-ken.github.io/formattable/
 ## formattable: Create 'Formattable' Data Structures
-<blockquote>Provides functions to create formattable vectors and data frames. 'Formattable' vectors are printed with text formatting, and formattable data frames are printed with multiple types of formatting in HTML to improve the readability of data presented in tabular form rendered in web pages.</blockquote>
+<blockquote>This package is designed for applying formatting on vectors and data frames to make data presentation easier, richer, more flexible and hopefully convey more information.</blockquote>
 
 ### Why I like it
-Can create a formatted currency type that is 'pretty' and still works like a numeric. 
+Can create a formatted currency type (for example) that is 'pretty' and still works like a numeric. 
 
 -----
 
 https://styler.r-lib.org/
 ## styler: Non-Invasive Pretty Printing of R Code
-<blockquote>Pretty-prints R code without changing the user's formatting intent.</blockquote>
+<blockquote>The goal of styler is to provide non-invasive pretty-printing of R source code while adhering to the tidyverse formatting rules. styler can be customized to format code according to other style guides too.</blockquote>
 
 ### Why I like it
 It not only straightens out your code, but it can handle comments, including roxygen comments. **Pro tip:** modify RStudio keyboard shortcuts so that Ctrl+Shift+A maps to "style selection" instead of the built in "reformat code."
