@@ -12,5 +12,5 @@ https://styler.r-lib.org/
 <blockquote>Pretty-prints R code without changing the user's formatting intent.</blockquote>
 
 ### Why I like it
-It not only straightens out your code, but it can handle comments, including roxygen comments.
+It not only straightens out your code, but it can handle comments, including roxygen comments. **Pro tip:** modify RStudio keyboard shortcuts so that Ctrl+Shift+A maps to "style selection" instead of the built in "reformat code."
 
